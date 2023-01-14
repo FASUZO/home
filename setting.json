@@ -1,0 +1,46 @@
+{
+    "title": "SUZO'Nav",
+    "description": "私人网站导航（自己记不住有哪些网站）",
+    "keywords": "無名,个人主页",
+    "author": "SUZO",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "SUZO",
+    "logo_text_2": "'Nav",
+    "github": "fasuzo",
+    "qq": "1404255349",
+    "email": "fasuzo@qq.com",
+    "bilibili": "33863464",
+    "telegram": "bottom_user",
+    "link_1": [
+        "https://vercel-hexo.suzo.top/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://drive.suzo.top/",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "https://blog.imsyy.top/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://nav.imsyy.top/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://web.imsyy.top/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://lab.imsyy.top/",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "Copyright_text": "無名",
+    "beian": "豫ICP备2022018134号-1"
+}
